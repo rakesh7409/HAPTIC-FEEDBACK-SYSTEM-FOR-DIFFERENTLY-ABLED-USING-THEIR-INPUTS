@@ -1,0 +1,2 @@
+# HAPTIC-FEEDBACK-SYSTEM-FOR-DIFFERENTLY-ABLED-USING-THEIR-INPUTS
+To enable differently abled users not only interact with the modern computers but also explain their thoughts with other people, built a whole new interaction and feedback system for differently abled people to help them not only interact with the system in their sign language but also simultaneously receive a feedback, which helps them to interact with other people. 
